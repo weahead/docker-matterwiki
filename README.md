@@ -14,7 +14,7 @@ This container includes:
 
 ## Usage
 
-`docker run -d weahead/matterwiki:latest`
+`docker run -d weahead/matterwiki:0.2.3`
 
 
 ## License
