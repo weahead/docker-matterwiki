@@ -1,0 +1,4 @@
+[submodule "matterwiki"]
+	path = matterwiki
+	url = https://github.com/Matterwiki/Matterwiki.git
+	branch = master
